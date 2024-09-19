@@ -1,5 +1,6 @@
 "# React-JS-Todo-app-" 
-"# React-JS-Todo-app-" 
+
+<img width="769" alt="todo app" src="https://github.com/user-attachments/assets/6ecb7fb7-7072-417e-b9e3-5bce31f45987">
 
 ```
 React-JS-Todo-app-
@@ -24,3 +25,6 @@ React-JS-Todo-app-
 └─ README.md
 
 ```
+
+
+
