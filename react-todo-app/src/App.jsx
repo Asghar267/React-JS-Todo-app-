@@ -1,11 +1,8 @@
-// import React from 'react'
-
-import Navbar from "./components/Navbar"
-
-const App = () => {
+ import Todo from "./components/Todo"
+ const App = () => {
   return (
     <div>
-      <Navbar/>
+      <Todo/>
     </div>
   )
 }
